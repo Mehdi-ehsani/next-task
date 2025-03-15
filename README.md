@@ -11,7 +11,7 @@ A simple **Next.js** project for managing users with search, sorting, and pagina
 ✅ Dark mode and light mode
 
 ## 🛠️ Tech Stack  
-- **Next.js 14 (App Router)**  
+- **Next.js 15 (App Router)**  
 - **Redux Toolkit** (for global state management)  
 - **Tailwind CSS** (for styling)
 - **DaisyUi** (for styling)
