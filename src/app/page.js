@@ -37,9 +37,9 @@ export default async function Home({ searchParams }) {
 		return (
 			<div className="flex flex-col items-center justify-center h-screen">
 				<h1 className="text-red-500 text-2xl">
-					خطا در دریافت اطلاعات کاربران!
+        "Failed to fetch users"
 				</h1>
-				<p className="text-gray-400">لطفاً بعداً دوباره تلاش کنید.</p>
+				<p className="text-gray-400">Please Try Again Later</p>
 			</div>
 		);
 	}
