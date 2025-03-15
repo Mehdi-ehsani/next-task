@@ -92,7 +92,7 @@ const UserTable = ({ usersData, totalPages, currentPage }) => {
                         ) : (
                             <tr>
                                 <td colSpan="4" className="text-center p-4">
-                                    هیچ کاربری یافت نشد
+                                No users found matching your search
                                 </td>
                             </tr>
                         )}
